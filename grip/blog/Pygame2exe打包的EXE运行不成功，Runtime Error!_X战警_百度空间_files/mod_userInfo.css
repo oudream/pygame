@@ -1,0 +1,63 @@
+#qhomeFollowPopUp {
+	Z-INDEX: 1026; BORDER-BOTTOM: #e1e1e1 1px solid; POSITION: fixed; BORDER-LEFT: #e1e1e1 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 320px; BOTTOM: 77px; PADDING-RIGHT: 0px; BACKGROUND: white; BORDER-TOP: #3fa7cc 2px solid; RIGHT: 50px; BORDER-RIGHT: #e1e1e1 1px solid; PADDING-TOP: 5px; _position: absolute
+}
+#qhomeFollowPopUp .mod-title-bar {
+	PADDING-BOTTOM: 5px; MARGIN: 0px 15px
+}
+#qhomeFollowPopUp .mod-title-bar .mod-title {
+	LINE-HEIGHT: 40px; HEIGHT: 40px; COLOR: #454545; FONT-SIZE: 18px
+}
+#qhomeFollowPopUp .mod-content {
+	MARGIN: 0px 15px
+}
+#qhomeFollowPopUpCloseBtn {
+	POSITION: absolute; BORDER-BOTTOM-STYLE: none; BORDER-LEFT-STYLE: none; WIDTH: 9px; BORDER-TOP-STYLE: none; BACKGROUND: url(/static/qbase/img/qui/tip-btn-close.png) no-repeat 0px 0px; HEIGHT: 9px; BORDER-RIGHT-STYLE: none; OVERFLOW: hidden; CURSOR: pointer; RIGHT: 5px; TOP: 5px; _line-height: 9px
+}
+#qhomeFollowPopUpCloseBtn:hover {
+	BACKGROUND-POSITION: 0px -9px
+}
+#qhomeFollowPopUp .mod-boxAvatar {
+	WIDTH: 110px; HEIGHT: 110px
+}
+#qhomeFollowPopUp .mod-txtInfo {
+	WIDTH: 170px; MARGIN-LEFT: 10px; OVERFLOW: hidden
+}
+#qhomeFollowPopUp .mod-living A {
+	DISPLAY: inline-block; CURSOR: default
+}
+#qhomeFollowPopUp .mod-txtInfo .mod-txtInfo-noPadding {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#qhomeFollowPopUp .mod-txtInfo {
+	FONT-SIZE: 12px
+}
+#qhomeFollowPopUp .userInfoName {
+	PADDING-BOTTOM: 13px; LINE-HEIGHT: 14px; DISPLAY: block; HEIGHT: 14px; COLOR: #3fa7cc; FONT-SIZE: 14px
+}
+#qhomeFollowPopUp P {
+	LINE-HEIGHT: 20px; COLOR: #666
+}
+#qhomeFollowPopUp P SPAN {
+	PADDING-RIGHT: 10px; ZOOM: 1; DISPLAY: inline-block; COLOR: #666; _display: inline
+}
+#qhomeFollowPopUp P.q-fans A SPAN {
+	COLOR: #f46e6d; FONT-WEIGHT: bold
+}
+#qhomeFollowPopUp .mod-btn-panel {
+	TEXT-ALIGN: right; PADDING-BOTTOM: 5px; MARGIN-TOP: 10px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BORDER-TOP: #f6f6f6 1px solid; PADDING-TOP: 5px
+}
+#qhomeFollowPopUpConfirmBtn {
+	BORDER-BOTTOM-STYLE: none; TEXT-ALIGN: center; LINE-HEIGHT: 28px; BORDER-LEFT-STYLE: none; WIDTH: 68px; DISPLAY: inline-block; BORDER-TOP-STYLE: none; BACKGROUND: url(/static/qbase/img/qui/tip-btn.png) no-repeat 0px 0px; HEIGHT: 29px; COLOR: white; MARGIN-LEFT: 8px; BORDER-RIGHT-STYLE: none; FONT-SIZE: 12px
+}
+#qhomeFollowPopUpCancelBtn {
+	BORDER-BOTTOM-STYLE: none; TEXT-ALIGN: center; LINE-HEIGHT: 28px; BORDER-LEFT-STYLE: none; WIDTH: 68px; DISPLAY: inline-block; BORDER-TOP-STYLE: none; BACKGROUND: url(/static/qbase/img/qui/tip-btn.png) no-repeat 0px 0px; HEIGHT: 29px; COLOR: white; MARGIN-LEFT: 8px; BORDER-RIGHT-STYLE: none; FONT-SIZE: 12px
+}
+#qhomeFollowPopUpConfirmBtn:hover {
+	BACKGROUND-POSITION: 0px -29px
+}
+#qhomeFollowPopUpCancelBtn:hover {
+	BACKGROUND-POSITION: -69px -29px
+}
+#qhomeFollowPopUpCancelBtn {
+	BACKGROUND-POSITION: -69px 0px; COLOR: #666
+}

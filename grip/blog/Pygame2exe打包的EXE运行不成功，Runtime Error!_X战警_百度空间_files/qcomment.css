@@ -1,0 +1,261 @@
+.qcmt-wraper-box-comment .qcmt-footer-wraper .cmt-seemore .seemore-arrow {
+	BACKGROUND: url(/static/qcenter/img/spr_feed.png?v=54158037.png) no-repeat
+}
+.qcmt-wraper-box-comment .qcmt-footer-wraper .qcmt-collapse .collapse-arrow {
+	BACKGROUND: url(/static/qcenter/img/spr_feed.png?v=54158037.png) no-repeat
+}
+.qcmt-wraper-box-comment .cmt-list .cmt-item .wise-ico {
+	BACKGROUND: url(/static/qcomment/img/ico_wise.gif?v=51a519e5.gif) no-repeat
+}
+.qcmt-wraper-box-comment {
+	BACKGROUND: #fbfbfb; -moz-border-radius: 0 0 5px 5px; -webkit-border-radius: 0 0 5px 5px; border-radius: 0 0 5px 5px; _position: relative; -o-border-radius: 0 0 5px 5px
+}
+.qcmt-wraper-box-comment .cmt-border-top {
+	BORDER-BOTTOM: #f5f5f5 1px solid; POSITION: relative; LINE-HEIGHT: 0; BACKGROUND: #ebeaea; HEIGHT: 1px; FONT-SIZE: 0px; OVERFLOW: hidden; BORDER-TOP: #e1e1e1 1px solid
+}
+.qcmt-wraper-box-comment .qcmt-arrow-wraper {
+	POSITION: relative; WIDTH: 16px; HEIGHT: 12px; OVERFLOW: hidden; TOP: -12px
+}
+.qcmt-wraper-box-comment .qcmt-arrow-wraper .qcmt-arrow-border {
+	BORDER-BOTTOM: #e1e1e1 9px solid; BORDER-LEFT: transparent 8px dashed; WIDTH: 0px; HEIGHT: 0px; OVERFLOW: hidden; BORDER-TOP: transparent 0px; BORDER-RIGHT: transparent 8px dashed
+}
+.qcmt-wraper-box-comment .qcmt-arrow-wraper .qcmt-arrow-shadow {
+	BORDER-BOTTOM: #ebeaea 9px solid; POSITION: relative; BORDER-LEFT: transparent 8px dashed; MARGIN-TOP: -7px; WIDTH: 0px; HEIGHT: 0px; OVERFLOW: hidden; BORDER-TOP: transparent 0px; BORDER-RIGHT: transparent 8px dashed
+}
+.qcmt-wraper-box-comment .qcmt-arrow-wraper .qcmt-arrow {
+	BORDER-BOTTOM: #f5f5f5 9px solid; POSITION: relative; BORDER-LEFT: transparent 8px dashed; MARGIN-TOP: -7px; WIDTH: 0px; HEIGHT: 0px; OVERFLOW: hidden; BORDER-TOP: transparent 0px; BORDER-RIGHT: transparent 8px dashed
+}
+.qcmt-wraper-box-comment .qcmt-arrow-wraper .qcmt-arrow-inner {
+	BORDER-BOTTOM: #fbfbfb 9px solid; POSITION: relative; BORDER-LEFT: transparent 8px dashed; MARGIN-TOP: -7px; WIDTH: 0px; HEIGHT: 0px; OVERFLOW: hidden; BORDER-TOP: transparent 0px; BORDER-RIGHT: transparent 8px dashed
+}
+.qcmt-wraper-box-comment .qcmt-input-box {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 15px
+}
+.qcmt-wraper-box-comment .qcmt-input-box .qcmt-input-textarea-box {
+	BORDER-BOTTOM-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none
+}
+.qcmt-wraper-box-comment .qcmt-input-box .qcmt-input-textarea-box .qcmt-textarea-wraper {
+	BORDER-BOTTOM: #e2e2e2 1px solid; BORDER-LEFT: #ccc 1px solid; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #e2e2e2 1px solid
+}
+.qcmt-wraper-box-comment .qcmt-input-box .qcmt-input-textarea-box .focus.qcmt-textarea-wraper {
+	BORDER-BOTTOM-COLOR: #cecece; BORDER-TOP-COLOR: #acacac; BORDER-RIGHT-COLOR: #cecece; BORDER-LEFT-COLOR: #acacac
+}
+.qcmt-wraper-box-comment .qcmt-input-box .qcmt-input-textarea-box .mouseover.qcmt-textarea-wraper {
+	BORDER-BOTTOM-COLOR: #cecece; BORDER-TOP-COLOR: #acacac; BORDER-RIGHT-COLOR: #cecece; BORDER-LEFT-COLOR: #acacac
+}
+.qcmt-wraper-box-comment .qcmt-input-box .qcmt-input-textarea-box .qcmt-textarea-minishadow {
+	BORDER-LEFT: #f6f6f6 1px solid; MARGIN-TOP: 0px; BORDER-TOP: #eee 1px solid
+}
+.qcmt-wraper-box-comment .qcmt-input-box .qcmt-input-textarea-box .qcmt-textarea-box {
+	BORDER-BOTTOM-STYLE: none; BORDER-LEFT: #fcfcfc 1px solid; PADDING-BOTTOM: 6px; LINE-HEIGHT: 24px; OVERFLOW-X: hidden; OVERFLOW-Y: auto; PADDING-LEFT: 6px; WIDTH: 562px; PADDING-RIGHT: 6px; DISPLAY: block; HEIGHT: 24px; BORDER-RIGHT-STYLE: none; BORDER-TOP: #f6f6f6 1px solid; PADDING-TOP: 4px
+}
+.qcmt-wraper-box-comment .qcmt-input-textarea-box .qcmt-input-repost-checkbox {
+	LINE-HEIGHT: 16px; MARGIN-LEFT: -4px; PADDING-TOP: 1px
+}
+.qcmt-wraper-box-comment .qcmt-input-textarea-box .qcmt-input-repost-checkbox .qcmt-reply-friend {
+	MARGIN-TOP: 6px; COLOR: #676767
+}
+.qcmt-wraper-box-comment .qcmt-input-textarea-box .qcmt-input-repost-checkbox .qcmt-reply-author {
+	MARGIN-TOP: 6px; COLOR: #676767
+}
+.qcmt-wraper-box-comment .qcmt-input-textarea-box .qcmt-input-repost-checkbox INPUT {
+	VERTICAL-ALIGN: middle
+}
+.qcmt-wraper-box-comment .qcmt-input-textarea-box .qcmt-input-repost-checkbox LABEL {
+	VERTICAL-ALIGN: middle
+}
+.qcmt-wraper-box-comment .qcmt-input-box .qcmt-sub-bt-box {
+	MARGIN-TOP: 10px; FLOAT: right; MARGIN-RIGHT: -1px; _margin-right: -2px
+}
+.qcmt-wraper-box-comment .qcmt-input-box .qcmt-sub-bt-box A.button-save {
+	WIDTH: 70px; FLOAT: right; FONT-SIZE: 14px
+}
+.qcmt-wraper-box-comment .qcmt-sub-bt-box .qcmt-input-textnum-tip {
+	WIDTH: 60px; MARGIN-RIGHT: 12px
+}
+.qcmt-wraper-box-comment .qcmt-sub-bt-box .qcmt-input-textnum-tip .num-box {
+	FLOAT: right; COLOR: #999
+}
+.qcmt-wraper-box-comment .qcmt-sub-bt-box .qcmt-input-textnum-tip .now-num {
+	COLOR: #999
+}
+.qcmt-wraper-box-comment .qcmt-list-wraper {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 0px
+}
+.qcmt-wraper-box-comment .qcmt-list-wraper .cmt-list .cmt-item {
+	PADDING-TOP: 12px
+}
+.qcmt-wraper-box-comment .qcmt-list-wraper .cmt-list .cmt-item .cmt-mini-border {
+	LINE-HEIGHT: 0; MARGIN-TOP: 12px; WIDTH: 100%; BACKGROUND: url(/static/qcomment/img/border_comment_bottom.png?v=93657cb2.png); HEIGHT: 1px; FONT-SIZE: 0px; OVERFLOW: hidden
+}
+.qcmt-wraper-box-comment .cmt-list .cmt-item .cmt-item-portrait {
+	POSITION: static; WIDTH: 20px; BOTTOM: -4px; ZOOM: 1; MARGIN-BOTTOM: -4px; HEIGHT: 20px; MARGIN-LEFT: -30px; MARGIN-RIGHT: 10px; _position: relative; _margin-bottom: 0
+}
+.qcmt-wraper-box-comment .cmt-list .cmt-item .cmt-item-portrait IMG {
+	WIDTH: 20px; HEIGHT: 20px
+}
+.qcmt-wraper-box-comment .cmt-list .cmt-item .cmt-content-box {
+	WIDTH: 548px; MARGIN-LEFT: 30px; OVERFLOW: visible
+}
+.qcmt-wraper-box-comment .cmt-list .cmt-item .cmt-content-box .cmt-pub-time {
+	DISPLAY: none; FLOAT: left; COLOR: #ccc
+}
+.qcmt-wraper-box-comment .cmt-list .cmt-item .cmt-content-box .cmt-delete {
+	DISPLAY: none; FLOAT: left; MARGIN-LEFT: 10px
+}
+.qcmt-wraper-box-comment .cmt-list .mouseover .cmt-content-box .delete-hover-show {
+	DISPLAY: block
+}
+.qcmt-wraper-box-comment .cmt-list .cmt-item .cmt-content-box .cmt-reply {
+	FLOAT: left; MARGIN-LEFT: 10px
+}
+.qcmt-wraper-box-comment .cmt-list .cmt-item .cmt-content-box .cmt-content-detail {
+	LINE-HEIGHT: 22px; WIDTH: 445px; FLOAT: left; OVERFLOW: visible
+}
+.qcmt-wraper-box-comment .cmt-list .cmt-item .wise-ico {
+	PADDING-BOTTOM: 7px; PADDING-LEFT: 9px; PADDING-RIGHT: 9px; BACKGROUND-POSITION: 7px 8px; PADDING-TOP: 7px
+}
+.qcmt-wraper-box-comment .cmt-list .cmt-item .cmt-content-box .cmt-content-detail .cmt-user-name {
+	MARGIN-RIGHT: 7px
+}
+.qcmt-wraper-box-comment .cmt-item .cmt-actor-info .cmt-replyer-name {
+	MARGIN-RIGHT: 7px
+}
+.qcmt-wraper-box-comment .cmt-item .cmt-actor-info .cmt-replyee-name {
+	MARGIN-RIGHT: 7px
+}
+.qcmt-wraper-box-comment .cmt-item .cmt-actor-info .cmt-reply-tip {
+	MARGIN-RIGHT: 7px
+}
+.qcmt-wraper-box-comment .cmt-item .cmt-content-box .cmt-summary {
+	BORDER-LEFT: #77b9d0 2px solid; LINE-HEIGHT: 25px; MARGIN-TOP: 12px; PADDING-LEFT: 10px
+}
+.qcmt-wraper-box-comment .cmt-item .cmt-content-box .cmt-control-box {
+	FLOAT: right
+}
+.qcmt-wraper-box-comment .qcmt-footer-wraper {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 15px
+}
+.qcmt-wraper-box-comment .qcmt-footer-wraper .cmt-seemore {
+	BORDER-BOTTOM-STYLE: none; BORDER-LEFT-STYLE: none; WIDTH: 50px; BORDER-TOP-STYLE: none; FLOAT: right; MARGIN-LEFT: 20px; BORDER-RIGHT-STYLE: none
+}
+.qcmt-wraper-box-comment .qcmt-footer-wraper .qcmt-collapse {
+	WIDTH: 35px; FLOAT: right; MARGIN-LEFT: 10px
+}
+.qcmt-wraper-box-comment .qcmt-footer-wraper .qcmt-vl {
+	FLOAT: right; COLOR: #e0e0e0; MARGIN-LEFT: 10px; CURSOR: pointer
+}
+.qcmt-wraper-box-comment .qcmt-footer-wraper .cmt-seemore .seemore-tip {
+	FLOAT: right; CURSOR: pointer
+}
+.qcmt-wraper-box-comment .qcmt-footer-wraper .cmt-seemore .seemore-arrow {
+	MARGIN: 5px 0px 0px 5px; WIDTH: 5px; BACKGROUND-POSITION: -20px -90px; FLOAT: right; HEIGHT: 6px; OVERFLOW: hidden; CURSOR: pointer; _margin-top: 3px
+}
+.qcmt-wraper-box-comment .qcmt-footer-wraper .cmt-seemore:hover .seemore-arrow {
+	BACKGROUND-POSITION: -30px -90px
+}
+.qcmt-wraper-box-comment .qcmt-footer-wraper .seemore-loading {
+	WIDTH: 16px; BACKGROUND: url(/static/qbase/img/mod/loading16x16.gif?v=54158037.gif); FLOAT: right; HEIGHT: 16px; MARGIN-LEFT: 20px; OVERFLOW: hidden
+}
+.qcmt-wraper-box-comment .qcmt-footer-wraper .qcmt-collapse .collapse-tip {
+	FLOAT: right; CURSOR: pointer
+}
+.qcmt-wraper-box-comment .qcmt-footer-wraper .qcmt-collapse .collapse-arrow {
+	MARGIN: 5px 0px 0px 5px; WIDTH: 5px; BACKGROUND-POSITION: 0px -90px; FLOAT: right; HEIGHT: 6px; OVERFLOW: hidden; CURSOR: pointer; _margin-top: 3px
+}
+.qcmt-wraper-box-comment .qcmt-footer-wraper .qcmt-collapse:hover .collapse-arrow {
+	BACKGROUND-POSITION: -10px -90px
+}
+.qcmt-face-entrance {
+	MARGIN-TOP: 10px; WIDTH: 40px; BACKGROUND: url(/static/qcomment/img/face_entrance.png?v=2178751c.png) no-repeat 3px center; FLOAT: left; HEIGHT: 30px; OVERFLOW: hidden; CURSOR: pointer; _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod='crop', src='http://hi.bdimg.com/static/qcomment/img/face_entrance.png?v=2178751c.png'); _background: none
+}
+.qcmt-face-entrance-opened {
+	BORDER-BOTTOM: #c7c7c7 0px solid; POSITION: absolute; BORDER-LEFT: #c7c7c7 1px solid; WIDTH: 40px; BACKGROUND: url(/static/qcomment/img/face_entrance_close.gif?v=e506830f.gif) #fff no-repeat 2px center; HEIGHT: 30px; BORDER-TOP: #c7c7c7 1px solid; BORDER-RIGHT: #c7c7c7 1px solid; TOP: -31px; LEFT: -1px
+}
+.qcmt-face-dialog {
+	BORDER-BOTTOM: #c7c7c7 1px solid; BORDER-LEFT: #c7c7c7 1px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 15px; WIDTH: 361px; PADDING-RIGHT: 15px; BACKGROUND: url(/static/qcomment/img/face_dialog_top_border.gif?v=a571e47a.gif) #fff no-repeat 40px top; BORDER-TOP: #c7c7c7 0px solid; BORDER-RIGHT: #c7c7c7 1px solid; PADDING-TOP: 10px
+}
+.qcmt-face-dialog-icon {
+	POSITION: relative; MARGIN-TOP: 10px
+}
+.qcmt-face-dialog-icon-preview {
+	Z-INDEX: 10; BORDER-BOTTOM: #f46c08 2px solid; POSITION: absolute; BORDER-LEFT: #f46c08 2px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: #fff; BORDER-TOP: #f46c08 2px solid; BORDER-RIGHT: #f46c08 2px solid; PADDING-TOP: 5px; TOP: 0px
+}
+.qcmt-face-dialog-icon-preview IMG {
+	DISPLAY: block
+}
+.qcmt-face-dialog-icon-ul {
+	BORDER-BOTTOM: #e1e1e1 1px solid; BACKGROUND: url(/static/qcomment/img/face_icon_border.gif?v=1afa1f61.gif) left top; BORDER-RIGHT: #e1e1e1 1px solid
+}
+.qcmt-face-dialog-icon-li {
+	WIDTH: 30px; FLOAT: left; HEIGHT: 30px
+}
+.qcmt-face-dialog-icon-li:hover {
+	BACKGROUND: url(/static/qcomment/img/face_icon_hover_border.gif?v=f8824607.gif) no-repeat left top
+}
+.qcmt-face-dialog-icon-lihover {
+	BACKGROUND: url(/static/qcomment/img/face_icon_hover_border.gif?v=f8824607.gif) no-repeat left top
+}
+.qcmt-face-dialog-icon-lispan {
+	MARGIN-TOP: 3px; WIDTH: 25px; ZOOM: 1; DISPLAY: inline; HEIGHT: 25px; MARGIN-LEFT: 3px
+}
+.face-icon {
+	POSITION: static; BOTTOM: -4px; ZOOM: 1; MARGIN-BOTTOM: -4px; HEIGHT: 25px; MARGIN-LEFT: 2px; MARGIN-RIGHT: 2px; _position: relative
+}
+.qcmt-add-tag-wrapper.qcmt-wraper-box-comment .qcmt-input-box .qcmt-input-textarea-box {
+	WIDTH: 494px; FLOAT: left
+}
+.qcmt-add-tag-wrapper.qcmt-wraper-box-comment .qcmt-input-box .qcmt-input-textarea-box .qcmt-textarea-minishadow {
+	WIDTH: 491px; BACKGROUND: #fff
+}
+.qcmt-add-tag-wrapper.qcmt-wraper-box-comment .qcmt-input-box .qcmt-input-textarea-box .qcmt-textarea-box {
+	PADDING-BOTTOM: 5px; OUTLINE-STYLE: none; PADDING-LEFT: 6px; WIDTH: 150px; PADDING-RIGHT: 6px; FLOAT: left; PADDING-TOP: 5px; resize: none
+}
+.qcmt-add-tag-wrapper .qcmt-add-tag-wrapper .qcmt-input-box .qcmt-input-textarea-box .qcmt-textarea-box {
+	PADDING-BOTTOM: 5px; OUTLINE-STYLE: none; PADDING-LEFT: 6px; WIDTH: 150px; PADDING-RIGHT: 6px; FLOAT: left; PADDING-TOP: 5px; resize: none
+}
+.qcmt-add-tag-wrapper.qcmt-wraper-box-comment .qcmt-input-box .qcmt-sub-bt-box {
+	MARGIN-TOP: 0px; MARGIN-RIGHT: 0px
+}
+.qcmt-add-tag-wrapper .cmt-list .cmt-item .cmt-tag-text {
+	LINE-HEIGHT: 26px; FLOAT: left; HEIGHT: 26px; COLOR: #acacac
+}
+.qcmt-add-tag-wrapper .cmt-list .cmt-item .cmt-tag-item {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; ZOOM: 1; DISPLAY: inline-block; WHITE-SPACE: nowrap; BACKGROUND: #ababab; FLOAT: left; HEIGHT: 26px; COLOR: #fff; MARGIN-LEFT: 5px; CURSOR: pointer; PADDING-TOP: 0px; -moz-border-radius: 2px; -webkit-border-radius: 2px; border-radius: 2px; -o-border-radius: 2px
+}
+.qcmt-add-tag-wrapper .qcmt-input-box .qcmt-tag-box {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; PADDING-TOP: 0px
+}
+.qcmt-add-tag-wrapper .qcmt-inner-tag-wrapper {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; MARGIN: 4px 6px 0px 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 5px; WHITE-SPACE: nowrap; BACKGROUND: #40a8cd; FLOAT: left; HEIGHT: 26px; COLOR: #fff; PADDING-TOP: 0px; -moz-border-radius: 2px; -webkit-border-radius: 2px; border-radius: 2px; -o-border-radius: 2px
+}
+.qcmt-add-tag-wrapper .qcmt-inner-tag-wrapper .qcmt-inner-tag-close {
+	FONT-FAMILY: "ËÎÌו",sans-serif; COLOR: #a0d4e6; MARGIN-LEFT: 4px
+}
+.qcmt-add-tag-wrapper .qcmt-inner-tag-wrapper .qcmt-inner-tag-close:hover {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.qcmt-add-tag-wrapper.qcmt-wraper-box-comment .qcmt-input-repost-checkbox {
+	HEIGHT: 18px; COLOR: #f46e6e
+}
+.qcmt-add-tag-wrapper.qcmt-wraper-box-comment .qcmt-input-textarea-box .qcmt-input-repost-checkbox {
+	MARGIN-LEFT: 0px
+}
+.qcmt-wraper-box-comment .qcmt-input-box .qcmt-input-textarea-box .cmt-tip-warning.qcmt-textarea-wraper {
+	BORDER-BOTTOM: #febdbd 1px solid; BORDER-LEFT: #febdbd 1px solid; BORDER-TOP: #febdbd 1px solid; BORDER-RIGHT: #febdbd 1px solid
+}
+.qcmt-add-tag-wrapper.qcmt-wraper-box-comment .cmt-list {
+	
+}
+.qcmt-add-tag-wrapper .cmt-tag-list {
+	LINE-HEIGHT: 26px; DISPLAY: block; HEIGHT: 26px; OVERFLOW: hidden
+}
+.qcmt-wraper-box-comment {
+	-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box
+}
+.qcmt-add-tag-wrapper .cmt-list .cmt-item .cmt-tag-item {
+	-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box
+}
+.qcmt-add-tag-wrapper .qcmt-inner-tag-wrapper {
+	-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box
+}

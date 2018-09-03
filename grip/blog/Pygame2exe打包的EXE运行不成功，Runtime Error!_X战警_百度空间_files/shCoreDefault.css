@@ -1,0 +1,342 @@
+.syntaxhighlighter A {
+	BOX-SIZING: content-box !important; POSITION: static !important; TEXT-ALIGN: left !important; PADDING-BOTTOM: 0px !important; LINE-HEIGHT: 1.1em !important; BORDER-RIGHT-WIDTH: 0px !important; FONT-STYLE: normal !important; MARGIN: 0px; MIN-HEIGHT: auto !important; PADDING-LEFT: 0px !important; OUTLINE-WIDTH: 0px !important; WIDTH: auto !important; PADDING-RIGHT: 0px !important; FONT-FAMILY: "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace !important; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: none !important; BORDER-TOP-WIDTH: 0px !important; BORDER-BOTTOM-WIDTH: 0px !important; FONT-SIZE: 1em !important; OVERFLOW: visible !important; BORDER-LEFT-WIDTH: 0px !important; RIGHT: auto !important; FONT-WEIGHT: normal !important; PADDING-TOP: 0px !important; TOP: auto !important; LEFT: auto !important; -moz-border-radius: 0 0 0 0; -webkit-border-radius: 0 0 0 0; border-radius: 0 0 0 0
+}
+.syntaxhighlighter DIV {
+	BOX-SIZING: content-box !important; POSITION: static !important; TEXT-ALIGN: left !important; PADDING-BOTTOM: 0px !important; LINE-HEIGHT: 1.1em !important; BORDER-RIGHT-WIDTH: 0px !important; FONT-STYLE: normal !important; MARGIN: 0px; MIN-HEIGHT: auto !important; PADDING-LEFT: 0px !important; OUTLINE-WIDTH: 0px !important; WIDTH: auto !important; PADDING-RIGHT: 0px !important; FONT-FAMILY: "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace !important; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: none !important; BORDER-TOP-WIDTH: 0px !important; BORDER-BOTTOM-WIDTH: 0px !important; FONT-SIZE: 1em !important; OVERFLOW: visible !important; BORDER-LEFT-WIDTH: 0px !important; RIGHT: auto !important; FONT-WEIGHT: normal !important; PADDING-TOP: 0px !important; TOP: auto !important; LEFT: auto !important; -moz-border-radius: 0 0 0 0; -webkit-border-radius: 0 0 0 0; border-radius: 0 0 0 0
+}
+.syntaxhighlighter CODE {
+	BOX-SIZING: content-box !important; POSITION: static !important; TEXT-ALIGN: left !important; PADDING-BOTTOM: 0px !important; LINE-HEIGHT: 1.1em !important; BORDER-RIGHT-WIDTH: 0px !important; FONT-STYLE: normal !important; MARGIN: 0px; MIN-HEIGHT: auto !important; PADDING-LEFT: 0px !important; OUTLINE-WIDTH: 0px !important; WIDTH: auto !important; PADDING-RIGHT: 0px !important; FONT-FAMILY: "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace !important; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: none !important; BORDER-TOP-WIDTH: 0px !important; BORDER-BOTTOM-WIDTH: 0px !important; FONT-SIZE: 1em !important; OVERFLOW: visible !important; BORDER-LEFT-WIDTH: 0px !important; RIGHT: auto !important; FONT-WEIGHT: normal !important; PADDING-TOP: 0px !important; TOP: auto !important; LEFT: auto !important; -moz-border-radius: 0 0 0 0; -webkit-border-radius: 0 0 0 0; border-radius: 0 0 0 0
+}
+.syntaxhighlighter TABLE {
+	BOX-SIZING: content-box !important; POSITION: static !important; TEXT-ALIGN: left !important; PADDING-BOTTOM: 0px !important; LINE-HEIGHT: 1.1em !important; BORDER-RIGHT-WIDTH: 0px !important; FONT-STYLE: normal !important; MARGIN: 0px; MIN-HEIGHT: auto !important; PADDING-LEFT: 0px !important; OUTLINE-WIDTH: 0px !important; WIDTH: auto !important; PADDING-RIGHT: 0px !important; FONT-FAMILY: "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace !important; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: none !important; BORDER-TOP-WIDTH: 0px !important; BORDER-BOTTOM-WIDTH: 0px !important; FONT-SIZE: 1em !important; OVERFLOW: visible !important; BORDER-LEFT-WIDTH: 0px !important; RIGHT: auto !important; FONT-WEIGHT: normal !important; PADDING-TOP: 0px !important; TOP: auto !important; LEFT: auto !important; -moz-border-radius: 0 0 0 0; -webkit-border-radius: 0 0 0 0; border-radius: 0 0 0 0
+}
+.syntaxhighlighter TABLE TD {
+	BOX-SIZING: content-box !important; POSITION: static !important; TEXT-ALIGN: left !important; PADDING-BOTTOM: 0px !important; LINE-HEIGHT: 1.1em !important; BORDER-RIGHT-WIDTH: 0px !important; FONT-STYLE: normal !important; MARGIN: 0px; MIN-HEIGHT: auto !important; PADDING-LEFT: 0px !important; OUTLINE-WIDTH: 0px !important; WIDTH: auto !important; PADDING-RIGHT: 0px !important; FONT-FAMILY: "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace !important; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: none !important; BORDER-TOP-WIDTH: 0px !important; BORDER-BOTTOM-WIDTH: 0px !important; FONT-SIZE: 1em !important; OVERFLOW: visible !important; BORDER-LEFT-WIDTH: 0px !important; RIGHT: auto !important; FONT-WEIGHT: normal !important; PADDING-TOP: 0px !important; TOP: auto !important; LEFT: auto !important; -moz-border-radius: 0 0 0 0; -webkit-border-radius: 0 0 0 0; border-radius: 0 0 0 0
+}
+.syntaxhighlighter TABLE TR {
+	BOX-SIZING: content-box !important; POSITION: static !important; TEXT-ALIGN: left !important; PADDING-BOTTOM: 0px !important; LINE-HEIGHT: 1.1em !important; BORDER-RIGHT-WIDTH: 0px !important; FONT-STYLE: normal !important; MARGIN: 0px; MIN-HEIGHT: auto !important; PADDING-LEFT: 0px !important; OUTLINE-WIDTH: 0px !important; WIDTH: auto !important; PADDING-RIGHT: 0px !important; FONT-FAMILY: "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace !important; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: none !important; BORDER-TOP-WIDTH: 0px !important; BORDER-BOTTOM-WIDTH: 0px !important; FONT-SIZE: 1em !important; OVERFLOW: visible !important; BORDER-LEFT-WIDTH: 0px !important; RIGHT: auto !important; FONT-WEIGHT: normal !important; PADDING-TOP: 0px !important; TOP: auto !important; LEFT: auto !important; -moz-border-radius: 0 0 0 0; -webkit-border-radius: 0 0 0 0; border-radius: 0 0 0 0
+}
+.syntaxhighlighter TABLE TBODY {
+	BOX-SIZING: content-box !important; POSITION: static !important; TEXT-ALIGN: left !important; PADDING-BOTTOM: 0px !important; LINE-HEIGHT: 1.1em !important; BORDER-RIGHT-WIDTH: 0px !important; FONT-STYLE: normal !important; MARGIN: 0px; MIN-HEIGHT: auto !important; PADDING-LEFT: 0px !important; OUTLINE-WIDTH: 0px !important; WIDTH: auto !important; PADDING-RIGHT: 0px !important; FONT-FAMILY: "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace !important; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: none !important; BORDER-TOP-WIDTH: 0px !important; BORDER-BOTTOM-WIDTH: 0px !important; FONT-SIZE: 1em !important; OVERFLOW: visible !important; BORDER-LEFT-WIDTH: 0px !important; RIGHT: auto !important; FONT-WEIGHT: normal !important; PADDING-TOP: 0px !important; TOP: auto !important; LEFT: auto !important; -moz-border-radius: 0 0 0 0; -webkit-border-radius: 0 0 0 0; border-radius: 0 0 0 0
+}
+.syntaxhighlighter TABLE THEAD {
+	BOX-SIZING: content-box !important; POSITION: static !important; TEXT-ALIGN: left !important; PADDING-BOTTOM: 0px !important; LINE-HEIGHT: 1.1em !important; BORDER-RIGHT-WIDTH: 0px !important; FONT-STYLE: normal !important; MARGIN: 0px; MIN-HEIGHT: auto !important; PADDING-LEFT: 0px !important; OUTLINE-WIDTH: 0px !important; WIDTH: auto !important; PADDING-RIGHT: 0px !important; FONT-FAMILY: "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace !important; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: none !important; BORDER-TOP-WIDTH: 0px !important; BORDER-BOTTOM-WIDTH: 0px !important; FONT-SIZE: 1em !important; OVERFLOW: visible !important; BORDER-LEFT-WIDTH: 0px !important; RIGHT: auto !important; FONT-WEIGHT: normal !important; PADDING-TOP: 0px !important; TOP: auto !important; LEFT: auto !important; -moz-border-radius: 0 0 0 0; -webkit-border-radius: 0 0 0 0; border-radius: 0 0 0 0
+}
+.syntaxhighlighter TABLE CAPTION {
+	BOX-SIZING: content-box !important; POSITION: static !important; TEXT-ALIGN: left !important; PADDING-BOTTOM: 0px !important; LINE-HEIGHT: 1.1em !important; BORDER-RIGHT-WIDTH: 0px !important; FONT-STYLE: normal !important; MARGIN: 0px; MIN-HEIGHT: auto !important; PADDING-LEFT: 0px !important; OUTLINE-WIDTH: 0px !important; WIDTH: auto !important; PADDING-RIGHT: 0px !important; FONT-FAMILY: "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace !important; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: none !important; BORDER-TOP-WIDTH: 0px !important; BORDER-BOTTOM-WIDTH: 0px !important; FONT-SIZE: 1em !important; OVERFLOW: visible !important; BORDER-LEFT-WIDTH: 0px !important; RIGHT: auto !important; FONT-WEIGHT: normal !important; PADDING-TOP: 0px !important; TOP: auto !important; LEFT: auto !important; -moz-border-radius: 0 0 0 0; -webkit-border-radius: 0 0 0 0; border-radius: 0 0 0 0
+}
+.syntaxhighlighter TEXTAREA {
+	BOX-SIZING: content-box !important; POSITION: static !important; TEXT-ALIGN: left !important; PADDING-BOTTOM: 0px !important; LINE-HEIGHT: 1.1em !important; BORDER-RIGHT-WIDTH: 0px !important; FONT-STYLE: normal !important; MARGIN: 0px; MIN-HEIGHT: auto !important; PADDING-LEFT: 0px !important; OUTLINE-WIDTH: 0px !important; WIDTH: auto !important; PADDING-RIGHT: 0px !important; FONT-FAMILY: "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace !important; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: none !important; BORDER-TOP-WIDTH: 0px !important; BORDER-BOTTOM-WIDTH: 0px !important; FONT-SIZE: 1em !important; OVERFLOW: visible !important; BORDER-LEFT-WIDTH: 0px !important; RIGHT: auto !important; FONT-WEIGHT: normal !important; PADDING-TOP: 0px !important; TOP: auto !important; LEFT: auto !important; -moz-border-radius: 0 0 0 0; -webkit-border-radius: 0 0 0 0; border-radius: 0 0 0 0
+}
+.syntaxhighlighter .container DIV {
+	HEIGHT: 100% !important
+}
+.syntaxhighlighter {
+	POSITION: relative !important; MARGIN: 1em 0px; WIDTH: 96% !important; FONT-SIZE: 1em !important
+}
+.source.syntaxhighlighter {
+	OVERFLOW: hidden !important
+}
+.syntaxhighlighter .bold {
+	FONT-WEIGHT: bold !important
+}
+.syntaxhighlighter .italic {
+	FONT-STYLE: italic !important
+}
+.syntaxhighlighter .line {
+	
+}
+.syntaxhighlighter TABLE {
+	BORDER-BOTTOM: #c0c0c0 1px solid; BORDER-LEFT: #c0c0c0 1px solid; WIDTH: 100% !important; BORDER-TOP: #c0c0c0 1px solid; BORDER-RIGHT: #c0c0c0 1px solid
+}
+.syntaxhighlighter TABLE CAPTION {
+	TEXT-ALIGN: left !important; PADDING-BOTTOM: 0.5em !important; PADDING-LEFT: 1em !important; PADDING-RIGHT: 0px !important; PADDING-TOP: 0.5em !important
+}
+.syntaxhighlighter TABLE TD.code {
+	WIDTH: 92% !important; PADDING-TOP: 5px !important
+}
+.syntaxhighlighter TABLE TD.code .container {
+	POSITION: relative !important
+}
+.syntaxhighlighter TABLE TD.code .container TEXTAREA {
+	BOX-SIZING: border-box !important; POSITION: absolute !important; BORDER-BOTTOM-STYLE: none !important; BORDER-LEFT-STYLE: none !important; PADDING-LEFT: 1em !important; WIDTH: 100% !important; WHITE-SPACE: pre !important; BORDER-TOP-STYLE: none !important; BACKGROUND: white; HEIGHT: 100% !important; BORDER-RIGHT-STYLE: none !important; OVERFLOW: hidden !important; TOP: 0px !important; LEFT: 0px !important
+}
+.syntaxhighlighter TABLE TD.gutter .line {
+	TEXT-ALIGN: right !important; PADDING-BOTTOM: 0px !important; PADDING-LEFT: 1em !important; PADDING-RIGHT: 0.5em !important; WHITE-SPACE: nowrap; PADDING-TOP: 0px !important
+}
+.syntaxhighlighter TABLE TD.code .line {
+	PADDING-BOTTOM: 1px !important; PADDING-LEFT: 1em !important; PADDING-RIGHT: 1em !important; PADDING-TOP: 1px !important
+}
+.nogutter.syntaxhighlighter TD.code .container TEXTAREA {
+	PADDING-LEFT: 0px !important
+}
+.nogutter.syntaxhighlighter TD.code .line {
+	PADDING-LEFT: 0px !important
+}
+.show.syntaxhighlighter {
+	DISPLAY: block !important
+}
+.collapsed.syntaxhighlighter TABLE {
+	DISPLAY: none !important
+}
+.collapsed.syntaxhighlighter .toolbar {
+	POSITION: static !important; PADDING-BOTTOM: 0px !important; PADDING-LEFT: 0.8em !important; WIDTH: auto !important; PADDING-RIGHT: 0.8em !important; HEIGHT: auto !important; FONT-SIZE: 1em !important; PADDING-TOP: 0.1em !important
+}
+.collapsed.syntaxhighlighter .toolbar SPAN {
+	DISPLAY: inline !important; MARGIN-RIGHT: 1em !important
+}
+.collapsed.syntaxhighlighter .toolbar SPAN A {
+	PADDING-BOTTOM: 0px !important; PADDING-LEFT: 0px !important; PADDING-RIGHT: 0px !important; DISPLAY: none !important; PADDING-TOP: 0px !important
+}
+.collapsed.syntaxhighlighter .toolbar SPAN A.expandSource {
+	DISPLAY: inline !important
+}
+.syntaxhighlighter .toolbar {
+	Z-INDEX: 10 !important; POSITION: absolute !important; WIDTH: 11px !important; HEIGHT: 11px !important; FONT-SIZE: 10px !important; RIGHT: 1px !important; TOP: 1px !important
+}
+.syntaxhighlighter .toolbar SPAN.title {
+	DISPLAY: inline !important
+}
+.syntaxhighlighter .toolbar A {
+	TEXT-ALIGN: center !important; DISPLAY: block !important; TEXT-DECORATION: none !important; PADDING-TOP: 1px !important
+}
+.syntaxhighlighter .toolbar A.expandSource {
+	DISPLAY: none !important
+}
+.ie.syntaxhighlighter {
+	FONT-SIZE: 0.9em !important
+}
+.ie.syntaxhighlighter .toolbar {
+	LINE-HEIGHT: 8px !important
+}
+.ie.syntaxhighlighter .toolbar A {
+	PADDING-TOP: 0px !important
+}
+.printing.syntaxhighlighter .alt1.line .content {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.printing.syntaxhighlighter .alt2.line .content {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.printing.syntaxhighlighter .highlighted.line .number {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.printing.syntaxhighlighter .alt1.highlighted.line .content {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.printing.syntaxhighlighter .alt2.highlighted.line .content {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.printing.syntaxhighlighter .line .number {
+	COLOR: #bbb !important
+}
+.printing.syntaxhighlighter .line .content {
+	COLOR: black !important
+}
+.printing.syntaxhighlighter .toolbar {
+	DISPLAY: none !important
+}
+.printing.syntaxhighlighter A {
+	TEXT-DECORATION: none !important
+}
+.printing.syntaxhighlighter .plain {
+	COLOR: black !important
+}
+.printing.syntaxhighlighter .plain A {
+	COLOR: black !important
+}
+.printing.syntaxhighlighter .comments {
+	COLOR: #008200 !important
+}
+.printing.syntaxhighlighter .comments A {
+	COLOR: #008200 !important
+}
+.printing.syntaxhighlighter .string {
+	COLOR: blue !important
+}
+.printing.syntaxhighlighter .string A {
+	COLOR: blue !important
+}
+.printing.syntaxhighlighter .keyword {
+	COLOR: #069 !important; FONT-WEIGHT: bold !important
+}
+.printing.syntaxhighlighter .preprocessor {
+	COLOR: gray !important
+}
+.printing.syntaxhighlighter .variable {
+	COLOR: #a70 !important
+}
+.printing.syntaxhighlighter .value {
+	COLOR: #090 !important
+}
+.printing.syntaxhighlighter .functions {
+	COLOR: #ff1493 !important
+}
+.printing.syntaxhighlighter .constants {
+	COLOR: #06c !important
+}
+.printing.syntaxhighlighter .script {
+	FONT-WEIGHT: bold !important
+}
+.printing.syntaxhighlighter .color1 {
+	COLOR: gray !important
+}
+.printing.syntaxhighlighter .color1 A {
+	COLOR: gray !important
+}
+.printing.syntaxhighlighter .color2 {
+	COLOR: #ff1493 !important
+}
+.printing.syntaxhighlighter .color2 A {
+	COLOR: #ff1493 !important
+}
+.printing.syntaxhighlighter .color3 {
+	COLOR: red !important
+}
+.printing.syntaxhighlighter .color3 A {
+	COLOR: red !important
+}
+.printing.syntaxhighlighter .break {
+	COLOR: black !important
+}
+.printing.syntaxhighlighter .break A {
+	COLOR: black !important
+}
+.syntaxhighlighter {
+	BACKGROUND-COLOR: white
+}
+.syntaxhighlighter .alt1.line {
+	BACKGROUND-COLOR: white
+}
+.syntaxhighlighter .alt2.line {
+	BACKGROUND-COLOR: #fafafa
+}
+.syntaxhighlighter .number.highlighted.line {
+	COLOR: black !important
+}
+.syntaxhighlighter TABLE CAPTION {
+	COLOR: black !important
+}
+.syntaxhighlighter .gutter {
+	PADDING-BOTTOM: 5px !important; PADDING-LEFT: 5px !important; PADDING-RIGHT: 5px !important; COLOR: #000 !important; PADDING-TOP: 5px !important
+}
+.syntaxhighlighter .gutter .line {
+	BORDER-RIGHT: #6ce26c 3px solid
+}
+.syntaxhighlighter .gutter .highlighted.line {
+	BACKGROUND-COLOR: #6ce26c; COLOR: white !important
+}
+.printing.syntaxhighlighter .line .content {
+	BORDER-BOTTOM-STYLE: none !important; BORDER-LEFT-STYLE: none !important; BORDER-TOP-STYLE: none !important; BORDER-RIGHT-STYLE: none !important
+}
+.collapsed.syntaxhighlighter {
+	OVERFLOW: visible !important
+}
+.collapsed.syntaxhighlighter .toolbar {
+	BORDER-BOTTOM: #6ce26c 1px solid; BORDER-LEFT: #6ce26c 1px solid; BACKGROUND: white; COLOR: blue !important; BORDER-TOP: #6ce26c 1px solid; BORDER-RIGHT: #6ce26c 1px solid
+}
+.collapsed.syntaxhighlighter .toolbar A {
+	COLOR: blue !important
+}
+.collapsed.syntaxhighlighter .toolbar A:hover {
+	COLOR: red !important
+}
+.syntaxhighlighter .toolbar {
+	BORDER-BOTTOM-STYLE: none !important; BORDER-LEFT-STYLE: none !important; BORDER-TOP-STYLE: none !important; BACKGROUND: #6ce26c; COLOR: white !important; BORDER-RIGHT-STYLE: none !important
+}
+.syntaxhighlighter .toolbar A {
+	COLOR: white !important
+}
+.syntaxhighlighter .toolbar A:hover {
+	COLOR: black !important
+}
+.syntaxhighlighter .plain {
+	COLOR: black !important
+}
+.syntaxhighlighter .plain A {
+	COLOR: black !important
+}
+.syntaxhighlighter .comments {
+	COLOR: #008200 !important
+}
+.syntaxhighlighter .comments A {
+	COLOR: #008200 !important
+}
+.syntaxhighlighter .string {
+	COLOR: blue !important
+}
+.syntaxhighlighter .string A {
+	COLOR: blue !important
+}
+.syntaxhighlighter .keyword {
+	COLOR: #069 !important
+}
+.syntaxhighlighter .preprocessor {
+	COLOR: gray !important
+}
+.syntaxhighlighter .variable {
+	COLOR: #a70 !important
+}
+.syntaxhighlighter .value {
+	COLOR: #090 !important
+}
+.syntaxhighlighter .functions {
+	COLOR: #ff1493 !important
+}
+.syntaxhighlighter .constants {
+	COLOR: #06c !important
+}
+.syntaxhighlighter .script {
+	COLOR: #069 !important; FONT-WEIGHT: bold !important
+}
+.syntaxhighlighter .color1 {
+	COLOR: gray !important
+}
+.syntaxhighlighter .color1 A {
+	COLOR: gray !important
+}
+.syntaxhighlighter .color2 {
+	COLOR: #ff1493 !important
+}
+.syntaxhighlighter .color2 A {
+	COLOR: #ff1493 !important
+}
+.syntaxhighlighter .color3 {
+	COLOR: red !important
+}
+.syntaxhighlighter .color3 A {
+	COLOR: red !important
+}
+.syntaxhighlighter .keyword {
+	FONT-WEIGHT: bold !important
+}
+.syntaxhighlighter A {
+	-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box
+}
+.syntaxhighlighter DIV {
+	-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box
+}
+.syntaxhighlighter CODE {
+	-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box
+}
+.syntaxhighlighter TABLE {
+	-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box
+}
+.syntaxhighlighter TABLE TD {
+	-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box
+}
+.syntaxhighlighter TABLE TR {
+	-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box
+}
+.syntaxhighlighter TABLE TBODY {
+	-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box
+}
+.syntaxhighlighter TABLE THEAD {
+	-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box
+}
+.syntaxhighlighter TABLE CAPTION {
+	-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box
+}
+.syntaxhighlighter TEXTAREA {
+	-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box
+}
